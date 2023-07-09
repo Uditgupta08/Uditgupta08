@@ -2,8 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 🌱 I’m currently learning **Java**
-- 
-
+- 💬 Ask me about **Front-end**
 - 📫 How to reach me **ugupta_be22@thapar.edu**
 
 <h3 align="left">Connect with me:</h3>
