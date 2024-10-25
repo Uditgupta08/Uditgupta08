@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Udit Gupta</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
-- 🌱 I’m currently learning **ReactJs,Python**
+- 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **NodeJs**
+- 💬 Ask me about **Web Dev**
 
 - 📫 How to reach me **udit0808gupta@gmail.com**
 
