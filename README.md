@@ -17,7 +17,6 @@
    <a href="https://www.codechef.com/users/uditgupta08" target="_blank"><img src="https://cdn-1.webcatalog.io/catalog/codechef/codechef-icon-filled-256.png?v=1675596522631" hspace="1" vspace="0" height="40" width="40" align="top" target="_blank"></a>
   <a href = "mailto: udit0808gupta@gmail.com"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Gmail-Dark.svg" hspace="1" vspace="0" height="44" width="44" align="top" target="_blank"></a>
 
-</br>
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
