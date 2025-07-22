@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uditgupta08&label=Profile%20views&color=0e75b6&style=flat" alt="uditgupta08" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning**
-
 - 👨‍💻 <a href="https://uditgupta08.github.io/My-Portfolio/" target="_blank" rel="noopener noreferrer">  Check out my Portflio!</a>
 
 - 💬 Ask me about **Backend Dev**
@@ -48,7 +46,10 @@
   <img src="https://wallpapers.com/images/hd/weird-cat-pictures-gypymmjaxk0o8dx4.jpg" align="" width="auto" height="40" alt="ERROR: cant load image"/> 
  </p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=uditgupta08&show_icons=true&theme=dark&locale=en&layout=compact" alt="uditgupta08" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=uditgupta08&show_icons=true&theme=dark&locale=en&layout=compact" alt="uditgupta08" />
+ <br/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=uditgupta08&theme=dark&hide_border=false" alt="GitHub Streak" />
+  </p>
 <h2 align="center">📊 LeetCode</h2>
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/udit0808?theme=dark&font=baloo" alt="LeetCode" />
