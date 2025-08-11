@@ -54,7 +54,7 @@ Jack of many trades, master of some.😉
    <a href="https://replit.com/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Replit-Dark.svg" hspace="1" vspace="0" height="40" width="40" align="top" target="_blank"></a>
   <a href="https://g.co/kgs/Y2TJVi" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Arduino.svg" hspace="1" vspace="0" height="40" width="40" align="top" target="_blank"></a>
      <a href="https://www.mathworks.com/products/matlab.html" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Matlab-Dark.svg" hspace="1" vspace="0" height="40" width="40" align="top" target="_blank"></a>
-  <img src="https://wallpapers.com/images/hd/weird-cat-pictures-gypymmjaxk0o8dx4.jpg" align="" width="auto" height="40" alt="ERROR: cant load image"/> 
+  <img src="https://wallpapers.com/images/hd/weird-cat-pictures-gypymmjaxk0o8dx4.jpg" align="" width="auto" height="40" alt="ERROR: cannot load image"/> 
  </p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=uditgupta08&show_icons=true&theme=dark&locale=en&layout=compact" alt="uditgupta08" />
